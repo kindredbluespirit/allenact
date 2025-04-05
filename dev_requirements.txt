@@ -9,5 +9,5 @@ docstr-coverage==1.2.0
 mkdocs==1.1.2
 mkdocs-material==5.5.3
 pre-commit
-pydoc-markdown==3.4.0
+pydoc-markdown>4
 compress-pickle==1.2.0
